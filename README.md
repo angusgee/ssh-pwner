@@ -34,6 +34,11 @@ This repository contains a tool for SSH operations using Python and Paramiko.
     ```
 
 5. **Run the application**:
+
+First you will want to change the IP address from `127.0.0.1` to your real target IP. 
+
+Then run the application:
+
     ```sh
     python ssh-pwner.py
     ```
